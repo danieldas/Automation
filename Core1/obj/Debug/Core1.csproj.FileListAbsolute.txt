@@ -1,0 +1,9 @@
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Core1\bin\Debug\Core1.dll
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Core1\bin\Debug\Core1.pdb
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Core1\obj\Debug\Core1.dll
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Core1\obj\Debug\Core1.pdb
+C:\Users\DAOC\Documents\Diplomado Software Testing\3 Technical Automation\SolutionTest\Core1\bin\Debug\Core1.dll
+C:\Users\DAOC\Documents\Diplomado Software Testing\3 Technical Automation\SolutionTest\Core1\bin\Debug\Core1.pdb
+C:\Users\DAOC\Documents\Diplomado Software Testing\3 Technical Automation\SolutionTest\Core1\obj\Debug\Core1.csprojResolveAssemblyReference.cache
+C:\Users\DAOC\Documents\Diplomado Software Testing\3 Technical Automation\SolutionTest\Core1\obj\Debug\Core1.dll
+C:\Users\DAOC\Documents\Diplomado Software Testing\3 Technical Automation\SolutionTest\Core1\obj\Debug\Core1.pdb

@@ -1,0 +1,16 @@
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Cliente\bin\Debug\Cliente.exe.config
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Cliente\bin\Debug\Cliente.exe
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Cliente\bin\Debug\Cliente.pdb
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Cliente\bin\Debug\Core1.dll
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Cliente\bin\Debug\Core1.pdb
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Cliente\obj\Debug\Cliente.exe
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Cliente\obj\Debug\Cliente.pdb
+C:\Users\DAOC\Documents\Diplomado Software Testing\3 Technical Automation\SolutionTest\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\DAOC\Documents\Diplomado Software Testing\3 Technical Automation\SolutionTest\Cliente\obj\Debug\Cliente.exe
+C:\Users\DAOC\Documents\Diplomado Software Testing\3 Technical Automation\SolutionTest\Cliente\obj\Debug\Cliente.pdb
+C:\Users\DAOC\Documents\Diplomado Software Testing\3 Technical Automation\SolutionTest\Cliente\bin\Debug\Cliente.exe
+C:\Users\DAOC\Documents\Diplomado Software Testing\3 Technical Automation\SolutionTest\Cliente\bin\Debug\Cliente.pdb
+C:\Users\DAOC\Documents\Diplomado Software Testing\3 Technical Automation\SolutionTest\Cliente\bin\Debug\Core1.dll
+C:\Users\DAOC\Documents\Diplomado Software Testing\3 Technical Automation\SolutionTest\Cliente\bin\Debug\Core1.pdb
+C:\Users\DAOC\Documents\Diplomado Software Testing\3 Technical Automation\SolutionTest\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
